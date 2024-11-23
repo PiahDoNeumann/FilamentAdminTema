@@ -1,5 +1,5 @@
 <x-filament-panels::page>
-    <div class="grid grid-cols-12 gap-6 max-w-full">
+    <div class="grid grid-cols-1 gap-6 max-w-full">
         <div class="space-y-6">
             <div class="flex flex-col md:flex-row md:space-x-6 space-y-6 md:space-y-0">
                 <div class="w-full md:w-1/2">
@@ -34,7 +34,7 @@
 
     <hr />
 
-    <div class="grid grid-cols-12 gap-6 max-w-full">
+    <div class="grid grid-cols-1 gap-6 max-w-full">
         <div class="flex flex-col md:flex-row md:space-x-6 space-y-6 md:space-y-0">
             <div class="w-full md:w-1/2">
                 <div class="bg-white rounded-lg shadow p-6">
